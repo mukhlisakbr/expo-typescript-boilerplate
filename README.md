@@ -6,8 +6,8 @@ this is my personal boilerplate for building expo app
 
 ### core
 
-- [expo](https://docs.expo.dev/)
-- [typescript](https://www.typescriptlang.org/)
+- [expo](https://docs.expo.dev/): create mobile app with ease
+- [typescript](https://www.typescriptlang.org/): js with static typing
 
 ### tooling
 
@@ -16,3 +16,7 @@ this is my personal boilerplate for building expo app
 - [pretty-quick](https://github.com/azz/pretty-quick): prettify your code
 - [commitizen](https://github.com/commitizen/cz-cli): commit like a pro
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint): eslint with typescript support
+
+## disclaimer
+
+don't ever use this without knowing every piece of it
