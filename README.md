@@ -8,6 +8,7 @@ this is my personal boilerplate for building expo app using SDK 44.
 
 - [expo](https://docs.expo.dev/): create mobile app with ease
 - [typescript](https://www.typescriptlang.org/): js with static typing
+- [redux-toolkit](https://redux-toolkit.js.org/tutorials/quick-start): use redux easily
 
 ### tooling
 
