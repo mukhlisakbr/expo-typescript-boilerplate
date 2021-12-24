@@ -8,6 +8,7 @@ import {
 import { HomeScreen } from '../screens/home-screen';
 import { AntDesign } from '@expo/vector-icons';
 import { NavigationContainer } from '@react-navigation/native';
+import { AboutScreen } from '../screens/about-screen';
 // import { AboutScreen } from '../screens/about-screen';
 
 const Tabs = AnimatedTabBarNavigator();
@@ -27,15 +28,18 @@ export const BottomTabs = () => {
     <NavigationContainer>
       <Tabs.Navigator
         tabBarOptions={{
-          activeTintColor: '#ffffff',
-          inactiveTintColor: '#223322',
-          activeBackgroundColor: 'red',
+          activeTintColor: 'white',
+          inactiveTintColor: 'black',
+          activeBackgroundColor: 'black',
+          tabStyle: { paddingBottom: 20 },
         }}
         appearance={{
           shadow: true,
-          floating: true,
-          whenActiveShow: TabElementDisplayOptions.ICON_ONLY,
+          floating: false,
+          whenActiveShow: TabElementDisplayOptions.BOTH,
           dotSize: DotSize.SMALL,
+          horizontalPadding: 50,
+          dotCornerRadius: 50,
         }}
       >
         <Tabs.Screen
@@ -49,7 +53,7 @@ export const BottomTabs = () => {
         />
         <Tabs.Screen
           name="About"
-          component={HomeScreen}
+          component={AboutScreen}
           options={{
             tabBarIcon: ({ focused, color }: any) => (
               <TabBarIcon
