@@ -22,7 +22,10 @@
     "@babel/core": "^7.12.9",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.64.12",
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
     "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.5.0",
     "husky": "^7.0.0",
     "typescript": "~4.3.5"
   },
