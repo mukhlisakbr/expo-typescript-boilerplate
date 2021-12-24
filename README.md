@@ -19,6 +19,20 @@ this is my personal boilerplate for building expo app using SDK 44.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint): eslint with typescript support
 - [semantic-release](https://github.com/semantic-release/semantic-release): fully automated versioning
 
+## projects structure
+
+```bash
+src
+├── assets
+│   ├── adaptive-icon.png
+│   ├── favicon.png
+│   ├── icon.png
+│   └── splash.png
+├── slices
+│   └── counter-slice.ts
+└── store.ts
+```
+
 ## disclaimer
 
 don't ever use this without knowing every piece of it
