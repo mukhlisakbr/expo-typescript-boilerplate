@@ -3,6 +3,7 @@
     "name": "expo-typescript-boilerplate",
     "slug": "expo-typescript-boilerplate",
     "version": "1.0.0",
+    "sdkVersion": "44.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -13,17 +14,20 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 440010000,
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"

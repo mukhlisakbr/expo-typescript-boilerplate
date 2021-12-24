@@ -16,6 +16,7 @@ this is my personal boilerplate for building expo app using SDK 44.
 - [pretty-quick](https://github.com/azz/pretty-quick): prettify your code
 - [commitizen](https://github.com/commitizen/cz-cli): commit like a pro
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint): eslint with typescript support
+- [semantic-release](https://github.com/semantic-release/semantic-release): fully automated versioning
 
 ## disclaimer
 
