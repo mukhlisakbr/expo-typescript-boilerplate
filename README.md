@@ -1,6 +1,6 @@
 # expo-typescript-boilerplate
 
-this is my personal boilerplate for building expo app
+this is my personal boilerplate for building expo app using SDK 44.
 
 ## stacks
 
