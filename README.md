@@ -10,7 +10,8 @@ this is my personal boilerplate for building expo app using SDK 44.
 - [typescript](https://www.typescriptlang.org/): js with static typing
 - [redux-toolkit](https://redux-toolkit.js.org/tutorials/quick-start): use redux easily
 - [react-navigation v5](https://reactnavigation.org/docs/5.x/getting-started): navigate between your screen
-  - [react-native-animated-nav-tab-bar](https://github.com/torgeadelin/react-native-animated-nav-tab-bar)
+  - [react-native-animated-nav-tab-bar](https://github.com/torgeadelin/react-native-animated-nav-tab-bar): animated tab bar
+- [native-base](https://nativebase.io/): ui framework
 
 ### tooling
 
