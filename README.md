@@ -32,12 +32,12 @@ src
 │   ├── icon.png
 │   └── splash.png
 ├── navigation
-│   └── bottom-tabs.tsx
+│   └── BottomTabs.tsx
 ├── screens
-│   ├── about-screen.tsx
-│   └── home-screen.tsx
+│   ├── AboutScreen.tsx
+│   └── HomeScreen.tsx
 ├── slices
-│   └── counter-slice.ts
+│   └── counterSlice.ts
 └── store.ts
 ```
 
