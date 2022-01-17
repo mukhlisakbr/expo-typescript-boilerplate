@@ -9,7 +9,6 @@ import { HomeScreen } from '../screens/HomeScreen';
 import { AntDesign } from '@expo/vector-icons';
 import { NavigationContainer } from '@react-navigation/native';
 import { AboutScreen } from '../screens/AboutScreen';
-// import { AboutScreen } from '../screens/about-screen';
 
 const Tabs = AnimatedTabBarNavigator();
 
