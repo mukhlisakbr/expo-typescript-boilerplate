@@ -1,4 +1,4 @@
-# expo-typescript-boilerplate
+![expo-typescript-boilerplate](https://socialify.git.ci/mukhlisakbr/expo-typescript-boilerplate/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
 this is my personal boilerplate for building expo app using SDK 44.
 
